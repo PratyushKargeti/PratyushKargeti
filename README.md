@@ -21,30 +21,13 @@
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <!-- Center the content -->
-<div align="center">
+<p align="center">
   <!-- Add a link to your GitHub profile -->
-  <a href="https://github.com/PratyushKargeti" class="trophy-link">
+  <a href="https://github.com/PratyushKargeti">
     <!-- Customize the trophy theme and style -->
-    <img src="https://github-profile-trophy.vercel.app/?username=PratyushKargeti&theme=onedark&column=8&margin-w=10&margin-h=10&no-frame=true&no-bg=true" alt="GitHub Trophies" class="trophy-image">
+    <img src="https://github-profile-trophy.vercel.app/?username=PratyushKargeti&theme=nordhub&column=8&margin-w=15&margin-h=15" alt="GitHub Trophies">
   </a>
-</div>
-
-<!-- Add CSS styles and animations -->
-<style>
-.trophy-link {
-  display: inline-block;
-  position: relative;
-}
-
-.trophy-image {
-  animation: floatAnimation 3s infinite alternate;
-}
-
-@keyframes floatAnimation {
-  0% { transform: translateY(0); }
-  100% { transform: translateY(-10px); }
-}
-</style>
+</p>
 
 
 
