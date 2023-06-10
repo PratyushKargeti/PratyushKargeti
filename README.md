@@ -158,9 +158,9 @@
     </button>
   </a>
 </p>
+## 🔥 GitHub Stats
 
- <h2 align="center">🔥 GitHub Stats</h2> 
-## Overall
+### Overall
 
 <p align="center">
   <a href="https://github.com/PratyushKargeti/github-readme-stats">
@@ -191,6 +191,7 @@
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PratyushKargeti&theme=radical&utcOffset=8" width="600" alt="Productive Time" />
   </a>
 </p>
+
 
 
 <h2 align="center">🙇‍♂️ Quotes By Famous Developers!</h2>
