@@ -163,6 +163,12 @@
   <a href="https://github.com/PratyushKargeti/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=PratyushKargeti&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Pratyush's github stats" />
 </p>
+  <div align="center">
+  
+
+  | <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" align="center"><img width="100%" height="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PratyushKargeti&theme=radical" /></a> | <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" target="_blank" align="center"><img width="100%" height="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=PratyushKargeti&theme=react-dark&hide_border=true&title_color=ff6e96&line=ff6e96&point=F8D847&area=true&bg_color=141321" /></a> |
+  
+</div>
   
 ### :zap: Most used languages ❤️
 <div align="center">
