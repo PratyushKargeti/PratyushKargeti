@@ -20,18 +20,11 @@
 <!-- Add a heading -->
 <h2 align="center">🏆 GitHub Trophies</h2>
 
-<!-- Center the content -->
-<div align="center">
-  <!-- Add a link to your GitHub profile -->
-  <a href="https://github.com/PratyushKargeti">
-    <!-- Customize the trophy theme and style -->
-    <img src="https://github-profile-trophy.vercel.app/?username=PratyushKargeti&theme=juicyfresh&column=8" alt="GitHub Trophies">
+<p align="center">
+  <a href="https://github.com/lucthienphong1120/github-trophies" target="_blank">
+    <img width="75%" src="https://github-trophies.vercel.app/?username=PratyushKargeti&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=radical"/>
   </a>
-</div>
-
-
-
-
+</p>
 
 <h2 align="center">💻 Languages and Tools</h2>
 <p align="center">
