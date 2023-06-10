@@ -6,11 +6,7 @@
 ### 🏆 GitHub Trophies
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<a href="https://github-trophies.vercel.app/?username=PratyushKargeti" target="_blank">
-  <img src="https://github-trophies.vercel.app/?username=PratyushKargeti&theme=radical&margin-w=4&margin-h=4">
-</a>
 
-*User achievement statistics by [Github Trophies](https://github.com/lucthienphong1120/github-trophies)*
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
