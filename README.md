@@ -22,11 +22,11 @@
 
 <h3>Most Used Languages (by number of commits):</h3>
 <p align="center">
-	<a href="https://profile.codersrank.io/user/SmashedFrenzy16#Tech%20Skills">
+	<a href="https://profile.codersrank.io/user/PratyushKargeti#Tech%20Skills">
 		<img width="900em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=PratyushKargeti&padding=15&labels=true&legend=true&tooltip=true&max-labels=36&branding=false&skills=C,C%23,C%2B%2B,CSS,HTML,Java,JavaScript,Jupyter%20Notebook,PHP,Python,R,Ruby,Rust,SCSS,SQL,Scala,Shell,TSQL,TypeScript,Vue&show-other-skills=true&bg=white">
 	</a>
   
-<!--![SmashedFrenzy16's GiHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PratyushKargeti&text_color=586069&layout=compact&hide_border=true&title_color=0366d6&count_private=true&include_all_commits=true&theme=tokyonight&show_icons=true)-->
+<!--![PratyushKargeti's GiHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PratyushKargeti&text_color=586069&layout=compact&hide_border=true&title_color=0366d6&count_private=true&include_all_commits=true&theme=tokyonight&show_icons=true)-->
 	
 ### Quotes By Famous Developers!
 
