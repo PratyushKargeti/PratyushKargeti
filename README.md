@@ -162,7 +162,7 @@
 <h2 align="center">🔥 GitHub Stats</h2>
 <p align="center">
   <a href="https://github.com/PratyushKargeti/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=PratyushKargeti&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Pratyush's github stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=PratyushKargeti&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="Pratyush's github stats" />
   </a>
   <a href="https://github.com/PratyushKargeti/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratyushKargeti&layout=compact&theme=vision-friendly-dark&hide_border=true" />
@@ -171,14 +171,14 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PratyushKargeti&theme=vision-friendly-dark" width="600" alt="Profile Details" />
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PratyushKargeti&theme=algolia" width="600" alt="Profile Details" />
   </a>
 </p>
 
 <h2 align="center">🙇‍♂️ Quotes By Famous Developers!</h2>
 <p align="center">
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vision-friendly-dark">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
   </a>
 </p>
 
