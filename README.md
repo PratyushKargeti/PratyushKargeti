@@ -162,16 +162,16 @@
 <h2 align="center">🔥 GitHub Stats</h2>
 <p align="center">
   <a href="https://github.com/PratyushKargeti/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=PratyushKargeti&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Pratyush's github stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=PratyushKargeti&show_icons=true&include_all_commits=true&theme=buef&hide_border=true" alt="Pratyush's github stats" />
   </a>
   <a href="https://github.com/PratyushKargeti/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratyushKargeti&layout=compact&theme=tokyonight&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratyushKargeti&layout=compact&theme=tokyonigh&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PratyushKargeti&theme=tokyonight" width="600" alt="Profile Details" />
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PratyushKargeti&theme=tokyonigh" width="600" alt="Profile Details" />
   </a>
 </p>
 
@@ -184,7 +184,7 @@
 
 <h2 align="center">🔥 GitHub Streaks</h2>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PratyushKargeti&theme=tokyonight" alt="PratyushKargeti" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PratyushKargeti&theme=tokyonigh" alt="PratyushKargeti" />
 </p>
 
 <p align="left">
