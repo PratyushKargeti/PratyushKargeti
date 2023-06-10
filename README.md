@@ -23,7 +23,7 @@
 <!-- Center the content -->
 <div align="center" style="border: 2px solid #555; padding: 10px;">
   <a href="https://github.com/lucthienphong1120/github-trophies" target="_blank">
-    <img width="75%" src="https://github-trophies.vercel.app/?username=PratyushKargeti&column=8&margin-w=10&margin-h=10&no-bg=true&no-frame=true&theme=radical.blue" alt="GitHub Trophies">
+    <img width="75%" src="https://github-trophies.vercel.app/?username=PratyushKargeti&column=8&margin-w=10&margin-h=10&no-bg=true&no-frame=true&theme=radical.dracula" alt="GitHub Trophies">
   </a>
 </div>
 
@@ -165,7 +165,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=PratyushKargeti&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Pratyush's github stats" />
   </a>
   <a href="https://github.com/PratyushKargeti/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratyushKargeti&layout=compact&theme=buefy&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratyushKargeti&layout=compact&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
