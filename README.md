@@ -25,7 +25,7 @@
   <!-- Add a link to your GitHub profile -->
   <a href="https://github.com/PratyushKargeti">
     <!-- Customize the trophy theme and style -->
-    <img src="https://github-profile-trophy.vercel.app/?username=PratyushKargeti&theme=gruvbox&column=8&margin-w=15&margin-h=15" alt="GitHub Trophies" style="filter: hue-rotate(270deg); border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); padding: 10px;">
+    <img src="https://github-profile-trophy.vercel.app/?username=PratyushKargeti&theme=juicyfresh&column=8" alt="GitHub Trophies">
   </a>
 </div>
 
