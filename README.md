@@ -165,9 +165,7 @@
       <a href="https://github.com/PratyushKargeti/github-readme-stats">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=PratyushKargeti&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Pratyush's github stats" />
       </a>
-        <a href="https://github.com/PratyushKargeti/github-readme-stats">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratyushKargeti&layout=compact&theme=buefy&hide_border=true" />
-  </a>
+
 
   </div>
   <div style="width: 50%;">
@@ -185,6 +183,9 @@
       <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PratyushKargeti&theme=radical&utcOffset=8">
     </a>
   </div>
+   <a href="https://github.com/PratyushKargeti/github-readme-stats">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratyushKargeti&layout=compact&theme=buefy&hide_border=true" />
+  </a>
 
 
 
