@@ -23,7 +23,7 @@
 <!-- Center the content -->
 <div align="center" style="border: 2px solid #555; padding: 10px;">
   <a href="https://github.com/lucthienphong1120/github-trophies" target="_blank">
-    <img width="75%" src="https://github-trophies.vercel.app/?username=PratyushKargeti&column=8&margin-w=10&margin-h=10&no-bg=true&no-frame=true&theme=vision-friendly-dark" alt="GitHub Trophies">
+    <img width="80%" src="https://github-trophies.vercel.app/?username=PratyushKargeti&column=8&margin-w=10&margin-h=10&no-bg=true&no-frame=true&theme=vision-friendly-dark" alt="GitHub Trophies">
   </a>
 </div>
 
