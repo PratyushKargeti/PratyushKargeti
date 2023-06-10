@@ -21,13 +21,14 @@
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <!-- Center the content -->
-<p align="center">
+<div align="center">
   <!-- Add a link to your GitHub profile -->
   <a href="https://github.com/PratyushKargeti">
     <!-- Customize the trophy theme and style -->
-    <img src="https://github-profile-trophy.vercel.app/?username=PratyushKargeti&theme=nordhub&column=8&margin-w=15&margin-h=15" alt="GitHub Trophies">
+    <img src="https://github-profile-trophy.vercel.app/?username=PratyushKargeti&theme=gruvbox&column=8&margin-w=15&margin-h=15" alt="GitHub Trophies" style="filter: hue-rotate(270deg);">
   </a>
-</p>
+</div>
+
 
 
 
