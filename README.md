@@ -162,11 +162,16 @@
 <p align="center">
   <a href="https://github.com/PratyushKargeti/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=PratyushKargeti&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Pratyush's github stats" />
-  </a>
-  <a href="https://github.com/PratyushKargeti/github-readme-stats">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratyushKargeti&layout=compact&theme=darkhub&hide_border=true" />
-  </a>
 </p>
+  
+### :zap: Most used languages ❤️
+<div align="center">
+  
+  | <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" align="center"> <img width="100%" height="100%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=PratyushKargeti&layout=compact&langs_count=10&theme=radical&hide_border=true&custom_title=Most%20Used%20Languages"></a> | <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank" align="center"><img width="100%" height="100%" src= "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PratyushKargeti&theme=radical" alt=""></a> |
+  |---|---|
+  | <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank" align="center"><img width="100%" height="100%" src= "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PratyushKargeti&theme=radical"></a> | <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank" align="center"><img width="100%" height="100%" src= "https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PratyushKargeti&theme=radical&utcOffset=8"></a> |
+  
+</div>
 
 <h2 align="center">🙇‍♂️ Quotes By Famous Developers!</h2>
 <p align="center">
