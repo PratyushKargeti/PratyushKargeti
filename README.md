@@ -158,10 +158,16 @@
     </button>
   </a>
 </p>
-|     |     |
-| --- | --- |
-| <h2 align="center">🔥 GitHub Stats</h2> <p align="center"> <a href="https://github.com/PratyushKargeti/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=PratyushKargeti&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Pratyush's github stats" /> </a> </p> | <h2 align="center">Most Used Languages ❤️</h2> <p align="center"> <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratyushKargeti&layout=compact&langs_count=10&theme=radical&hide_border=true&custom_title=Most%20Used%20Languages" /> </a> </p> |
-| <h2 align="center">Profile Details</h2> <p align="center"> <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"> <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PratyushKargeti&theme=radical" width="400" /> </a> </p> | <h2 align="center">Productive Time</h2> <p align="center"> <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank"> <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PratyushKargeti&theme=radical&utcOffset=8" width="400" /> </a> </p> |
+
+ <h2 align="center">🔥 GitHub Stats</h2> 
+ <p align="center"> 
+  <a href="https://github.com/PratyushKargeti/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=PratyushKargeti&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Pratyush's github stats" />
+  </a> 
+</p> 
+ <h2 align="center">Languages Used</h2> <p align="center"> <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratyushKargeti&layout=compact&langs_count=10&theme=radical&hide_border=true&custom_title=Most%20Used%20Languages" /> </a> </p> 
+ 
+ <h2 align="center">Profile Details</h2> <p align="center"> <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"> <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PratyushKargeti&theme=radical" width="600" /> </a> </p> 
+ <h2 align="center">Productive Time</h2> <p align="center"> <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank"> <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PratyushKargeti&theme=radical&utcOffset=8" width="600" /> </a> </p> 
 
 
 
