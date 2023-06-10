@@ -15,7 +15,7 @@
 ### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> GitHub Stats
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[<img src="https://github-readme-stats.vercel.app/api?username=PratyushKargeti&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" height="175">](https://github-readme-stats.vercel.app/api?username=PratyushKargeti)
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratyushKargeti&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="175">](https://github-readme-stats.vercel.app/api/top-langs/?username=PratyushKargeti)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PratyushKargeti&show_icons=true&locale=en&layout=compact" alt="PratyushKargeti" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PratyushKargeti&" alt="PratyushKargeti" /></p>
