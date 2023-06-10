@@ -158,17 +158,22 @@
     </button>
   </a>
 </p>
-<h2 align="center">🔥 GitHub Stats</h2>
-<p align="left">
-  <a href="https://github.com/PratyushKargeti/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=PratyushKargeti&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Pratyush's github stats" />
-  </a>
-</p>
-
-<div align="right">
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" align="center">
-    <img width="50%" height="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PratyushKargeti&theme=radical" />
-  </a>
+<div style="display: flex;">
+  <div style="width: 50%;">
+    <h2 align="center">🔥 GitHub Stats</h2>
+    <p align="left">
+      <a href="https://github.com/PratyushKargeti/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=PratyushKargeti&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Pratyush's github stats" />
+      </a>
+    </p>
+  </div>
+  <div style="width: 50%;">
+    <div align="right">
+      <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" align="center">
+        <img width="100%" height="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PratyushKargeti&theme=radical" />
+      </a>
+    </div>
+  </div>
 </div>
 
 <h2 align="center">Most used languages ❤️</h2>
