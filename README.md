@@ -17,10 +17,15 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
+<!-- Add a heading -->
 <h2 align="center">🏆 GitHub Trophies</h2>
+
+<!-- Center the content -->
 <p align="center">
+  <!-- Add a link to your GitHub profile -->
   <a href="https://github.com/PratyushKargeti">
-    <img src="https://github-profile-trophy.vercel.app/?username=PratyushKargeti&theme=darkhub">
+    <!-- Customize the trophy theme and style -->
+    <img src="https://github-profile-trophy.vercel.app/?username=PratyushKargeti&theme=dracula&column=7&margin-w=10&margin-h=15&no-bg=true" alt="GitHub Trophies">
   </a>
 </p>
 
