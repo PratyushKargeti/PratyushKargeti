@@ -166,7 +166,7 @@
   <div align="center">
   
 
-  | <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" align="center"><img width="100%" height="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PratyushKargeti&theme=radical" /></a> | <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" target="_blank" align="center"><img width="100%" height="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=PratyushKargeti&theme=react-dark&hide_border=true&title_color=ff6e96&line=ff6e96&point=F8D847&area=true&bg_color=141321" /></a> |
+   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" align="center"><img width="50%" height="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PratyushKargeti&theme=radical" /></a>
   
 </div>
   
