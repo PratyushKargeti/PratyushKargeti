@@ -169,7 +169,6 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratyushKargeti&layout=compact&theme=buefy&hide_border=true" />
   </a>
 
-    </p>
   </div>
   <div style="width: 50%;">
     <div align="right">
@@ -180,32 +179,13 @@
   </div>
 </div>
 
-<h2 align="center">Most used languages ❤️</h2>
-<div style="display: flex; justify-content: center; align-items: center;">
-  <div style="width: 50%;">
-    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratyushKargeti&layout=compact&langs_count=10&theme=radical&hide_border=true&custom_title=Most%20Used%20Languages" />
-    </a>
-  </div>
-  <div style="width: 50%;">
-    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PratyushKargeti&theme=radical" />
-    </a>
-  </div>
-</div>
 
-<div style="display: flex; justify-content: center; align-items: center;">
   <div style="width: 50%;">
     <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PratyushKargeti&theme=radical">
+      <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PratyushKargeti&theme=radical&utcOffset=8">
     </a>
   </div>
-  <div style="width: 50%;">
-    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PratyushKargeti&theme=radical&utcOffset=8">
-    </a>
-  </div>
-</div>
+
 
 
 
