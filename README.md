@@ -21,12 +21,11 @@
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <!-- Center the content -->
-<p align="center">
+<div align="center" style="border: 2px solid #555; padding: 10px;">
   <a href="https://github.com/lucthienphong1120/github-trophies" target="_blank">
     <img width="75%" src="https://github-trophies.vercel.app/?username=PratyushKargeti&column=4&margin-w=5&margin-h=5&no-bg=true&no-frame=true&theme=radical.dark" alt="GitHub Trophies">
   </a>
-</p>
-
+</div>
 
 
 
