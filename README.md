@@ -171,13 +171,29 @@
 </div>
   
 <h2 align="center"> Most used languages ❤️</h2>
-<div align="center">
-  
-   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" align="center"> <img width="40%" height="50%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=PratyushKargeti&layout=compact&langs_count=10&theme=radical&hide_border=true&custom_title=Most%20Used%20Languages"></a> <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank" align="center"><img width="50%" height="40%" src= "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PratyushKargeti&theme=radical" alt=""></a> |
-
-   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank" align="center"><img width="50%" height="40%" src= "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PratyushKargeti&theme=radical"></a> <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank" align="center"><img width="50%" height="40%" src= "https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PratyushKargeti&theme=radical&utcOffset=8"></a>
-  
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
+  <div>
+    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" align="center">
+      <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratyushKargeti&layout=compact&langs_count=10&theme=radical&hide_border=true&custom_title=Most%20Used%20Languages" />
+    </a>
+  </div>
+  <div>
+    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank" align="center">
+      <img width="300px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PratyushKargeti&theme=radical" />
+    </a>
+  </div>
+  <div>
+    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank" align="center">
+      <img width="300px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PratyushKargeti&theme=radical">
+    </a>
+  </div>
+  <div>
+    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank" align="center">
+      <img width="300px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PratyushKargeti&theme=radical&utcOffset=8">
+    </a>
+  </div>
 </div>
+
 
 <h2 align="center">🙇‍♂️ Quotes By Famous Developers!</h2>
 <p align="center">
