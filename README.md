@@ -166,14 +166,14 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=PratyushKargeti&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Pratyush's github stats" />
       </a>
         <a href="https://github.com/PratyushKargeti/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratyushKargeti&layout=compact&theme=buefy&hide_border=true" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratyushKargeti&layout=compact&theme=buefy&hide_border=true" />
   </a>
 
   </div>
   <div style="width: 50%;">
-    <div align="right">
+    <div align="center">
       <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" align="center">
-        <img width="100%" height="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PratyushKargeti&theme=radical" />
+        <img width="60%" height="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PratyushKargeti&theme=radical" />
       </a>
     </div>
   </div>
