@@ -178,13 +178,13 @@
 <h2 align="center">🙇‍♂️ Quotes By Famous Developers!</h2>
 <p align="center">
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
   </a>
 </p>
 
 <h2 align="center">🔥 GitHub Streaks</h2>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PratyushKargeti&theme=dark" alt="PratyushKargeti" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PratyushKargeti&theme=radical" alt="PratyushKargeti" />
 </p>
 
 <p align="left">
