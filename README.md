@@ -185,7 +185,7 @@
 
 <h2 align="center">🔥 GitHub Streaks</h2>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PratyushKargeti&theme=react" alt="PratyushKargeti" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PratyushKargeti&theme=tokyonight" alt="PratyushKargeti" />
 </p>
 
 <!--- M Y   T O P   R E P O --->
@@ -194,9 +194,9 @@
 <br>
 <div width="100%" align="center">
   <!--- Repo #1 --->
-  <a align="right" href="https://github.com/PratyushKargeti/Leetcode" title="Leetcode"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=PratyushKargeti&repo=Leetcode&theme=dark&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/PratyushKargeti/Leetcode" title="Leetcode"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=PratyushKargeti&repo=Leetcode&theme=react&border_color=61dafb&border_radius=10"></a>
   <!--- Repo #2 --->
-  <a align="left" href="https://github.com/PratyushKargeti/PratyushKargeti" title="Readme"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=PratyushKargeti&repo=PratyushKargeti&theme=dark&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/PratyushKargeti/PratyushKargeti" title="Readme"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=PratyushKargeti&repo=PratyushKargeti&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
