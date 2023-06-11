@@ -187,6 +187,27 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PratyushKargeti&theme=react" alt="PratyushKargeti" />
 </p>
+
+<!--- M Y   T O P   R E P O --->
+
+<h2 align="center">💾 REPOSITORIES 💾</h2>
+<br>
+<div width="100%" align="center">
+  <!--- Repo #1 --->
+  <a align="right" href="https://github.com/PratyushKargeti/Leetcode" title="Leetcode"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=PratyushKargeti&repo=Leetcode&theme=react&border_color=61dafb&border_radius=10"></a>
+  <!--- Repo #2 --->
+  <a align="left" href="https://github.com/PratyushKargeti/PratyushKargeti" title="Readme"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=PratyushKargeti&repo=PratyushKargeti&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+
+<!--- S H O W   M O R E --->
+
+<h4 align="center">
+  <a href="https://github.com/PratyushKargeti?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
+
+<br>
+<br>
 <div align="center">
     <a href="https://git.io/typing-svg">
         <img alt="thanks for your visit" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+your+visit!">
@@ -195,3 +216,4 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=PratyushKargeti&label=Profile%20views&color=0e75b6&style=flat" alt="PratyushKargeti" />
 </p>
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
