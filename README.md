@@ -23,7 +23,7 @@
 <!-- Center the content -->
 <div align="center" style="border: 2px solid #555; padding: 10px;">
   <a href="https://github.com/lucthienphong1120/github-trophies" target="_blank">
-    <img width="80%" src="https://github-trophies.vercel.app/?username=PratyushKargeti&column=8&margin-w=10&margin-h=10&no-bg=true&no-frame=true&theme=darkhub" alt="GitHub Trophies">
+    <img width="80%" src="https://github-trophies.vercel.app/?username=PratyushKargeti&column=8&margin-w=10&margin-h=10&no-bg=true&no-frame=true&theme=radical.dark" alt="GitHub Trophies">
   </a>
 </div>
 
@@ -162,7 +162,7 @@
 <h2 align="center">🔥 GitHub Stats</h2>
 <p align="center">
   <a href="https://github.com/PratyushKargeti/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=PratyushKargeti&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="Pratyush's github stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=PratyushKargeti&show_icons=true&include_all_commits=true&theme=react&hide_border=true" alt="Pratyush's github stats" />
   </a>
   <a href="https://github.com/PratyushKargeti/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratyushKargeti&layout=compact&theme=react&hide_border=true" />
@@ -178,7 +178,7 @@
 <h2 align="center">🙇‍♂️ Quotes By Famous Developers!</h2>
 <p align="center">
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
   </a>
 </p>
 
