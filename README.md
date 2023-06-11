@@ -159,7 +159,7 @@
   </a>
 </p>
 
-<h2 align="center">🔥 GitHub Stats</h2>
+<h2 align="center">〽️ STATISTICS 〽️</h2>
 <p align="center">
   <a href="https://github.com/PratyushKargeti/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=PratyushKargeti&show_icons=true&include_all_commits=true&theme=react&hide_border=true" alt="Pratyush's github stats" />
@@ -186,7 +186,11 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PratyushKargeti&theme=react" alt="PratyushKargeti" />
 </p>
-
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img alt="thanks for your visit" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+your+visit!">
+    </a>
+</div>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=PratyushKargeti&label=Profile%20views&color=0e75b6&style=flat" alt="PratyushKargeti" />
 </p>
