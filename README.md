@@ -195,7 +195,7 @@
 <div width="100%" align="center">
   <!--- Repo #1 --->
   <a align="right" href="https://github.com/PratyushKargeti/Leetcode" title="Leetcode"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=PratyushKargeti&repo=Leetcode&theme=react&border_color=61dafb&border_radius=10"></a>
-  <h4 align="justify">
+  <h4 align="right">
   <a href="https://github.com/PratyushKargeti?tab=repositories" title="Show Repositories">🔎 Show more 🔍</a>
 </h4>
 </div>
