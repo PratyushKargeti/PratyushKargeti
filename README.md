@@ -189,7 +189,7 @@
 </p>
 
 <!--- M Y   T O P   R E P O --->
-<!---
+
 <h2 align="center">💾 REPOSITORIES 💾</h2>
 <br>
 <div width="100%" align="center">
@@ -198,7 +198,7 @@
   <!--- Repo #2 --->
   <a align="left" href="https://github.com/PratyushKargeti/PratyushKargeti" title="Readme"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=PratyushKargeti&repo=PratyushKargeti&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-<br/><br/><br/><br/><br/><br/> --->
+<br/><br/><br/><br/><br/><br/> 
 
 <!--- S H O W   M O R E --->
 
@@ -209,9 +209,9 @@
 <br>
 <br>
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img alt="thanks for your visit" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=32&center=true&vCenter=true&width=400&lines=Thanks+for+your+visit!" style="display: block; background-color: #F9F9F9; padding: 20px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
-  </a>
+    <a href="https://git.io/typing-svg">
+        <img alt="thanks for your visit" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+your+visit!">
+    </a>
 </div>
 
 <p align="left">
