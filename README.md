@@ -218,7 +218,7 @@
 
 
 
-<p align="left" style="margin-top: 1px;">
+<p align="left" style="margin-top: 5px;">
   <img src="https://komarev.com/ghpvc/?username=PratyushKargeti&label=Profile%20views&color=0e75b6&style=flat" alt="PratyushKargeti" />
 </p>
 
