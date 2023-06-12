@@ -192,14 +192,16 @@
 
 <h2 align="center">💾 REPOSITORIES 💾</h2>
 <br>
-<div width="100%" align="center">
-  <!--- Repo #1 --->
-  <a align="center" href="https://github.com/PratyushKargeti/Leetcode" title="Leetcode"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=PratyushKargeti&repo=Leetcode&theme=react&border_color=61dafb&border_radius=10"></a>
-  <h4 align="right">
-  <a href="https://github.com/PratyushKargeti?tab=repositories" title="Show Repositories">🔎 Show more 🔍</a>
-</h4>
+<div align="center">
+
+[![Leetcode](https://github-readme-stats.vercel.app/api/pin/?username=PratyushKargeti&repo=Leetcode&theme=react&border_color=61dafb&border_radius=10)](https://github.com/PratyushKargeti/Leetcode)
+
 </div>
-<br/><br/><br/><br/><br/><br/> 
+<br/>
+<p align="right">
+  <a href="https://github.com/PratyushKargeti?tab=repositories" title="Show Repositories">🔎 Show more 🔍</a>
+</p>
+
 
 <!--- S H O W   M O R E --->
 
