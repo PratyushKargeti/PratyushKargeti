@@ -1,3 +1,6 @@
+<p align="right" >
+  <img src="https://komarev.com/ghpvc/?username=PratyushKargeti&label=Profile%20views&color=0e75b6&style=flat" alt="PratyushKargeti" />
+</p>
 <h1 align="center">Hi 👋, I'm Pratyush Kargeti</h1>
 <h3 align="center">I'm a CS undergrad student interested in coding and exploring in-depth concepts</h3>
 
@@ -218,9 +221,7 @@
 
 
 
-<p align="left" >
-  <img src="https://komarev.com/ghpvc/?username=PratyushKargeti&label=Profile%20views&color=0e75b6&style=flat" alt="PratyushKargeti" />
-</p>
+
 
 
 <p align="center"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=%23FFA500&style=flat&logo" alt="back to top" /></a></p>
