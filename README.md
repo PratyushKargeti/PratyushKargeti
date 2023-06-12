@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratyush Kargeti</h1>
-<h3 align="center">I am a CS undergrad student interested in coding and in-depth concepts</h3>
+<h3 align="center"> a CS undergrad student interested in coding and exploring in-depth concepts</h3>
 
 <p align="center">
   <a href="#">
