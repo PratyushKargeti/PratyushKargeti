@@ -195,24 +195,23 @@
 <div width="100%" align="center">
   <!--- Repo #1 --->
   <a align="right" href="https://github.com/PratyushKargeti/Leetcode" title="Leetcode"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=PratyushKargeti&repo=Leetcode&theme=react&border_color=61dafb&border_radius=10"></a>
-  <!--- Repo #2 --->
-  <a align="left" href="https://github.com/PratyushKargeti/PratyushKargeti" title="Readme"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=PratyushKargeti&repo=PratyushKargeti&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/> 
 
 <!--- S H O W   M O R E --->
 
 <h4 align="center">
-  <a href="https://github.com/PratyushKargeti?tab=repositories" title="Show Repositories">🔎 Show Repositories 🔍</a>
+  <a href="https://github.com/PratyushKargeti?tab=repositories" title="Show Repositories">🔎 Show more 🔍</a>
 </h4>
 
 <br>
 <br>
 <div align="center">
-    <a href="https://git.io/typing-svg">
-        <img alt="thanks for your visit" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+your+visit!">
-    </a>
+  <a href="https://git.io/typing-svg">
+    <img alt="thanks for your visit" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%23FFA500&size=32&center=true&vCenter=true&width=400&lines=Thanks+for+your+visit!" style="display: block; background-color: #F9F9F9; padding: 20px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+  </a>
 </div>
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=PratyushKargeti&label=Profile%20views&color=0e75b6&style=flat" alt="PratyushKargeti" />
