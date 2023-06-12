@@ -218,11 +218,9 @@
 
 
 
-<div style="display: flex; align-items: center; margin-top: 10px;">
-  <svg xmlns="http://www.w3.org/2000/svg" width="120" height="20" viewBox="0 0 120 20" fill="#0e75b6" style="margin-right: 10px;">
-    <path fill-rule="evenodd" clip-rule="evenodd" d="M.36 0H119.64C119.82 0 120 .18 120 .4v19.2c0 .22-.18.4-.4.4H.36c-.22 0-.4-.18-.4-.4V.4C0 .18.18 0 .36 0z" />
-  </svg>
-  <span style="font-family: Arial, sans-serif; font-size: 14px; color: #0e75b6;">Profile views</span>
-</div>
+<p align="left" style="margin-top: 10px;">
+  <img src="https://komarev.com/ghpvc/?username=PratyushKargeti&label=Profile%20views&color=0e75b6&style=flat" alt="PratyushKargeti" />
+</p>
+
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=%23FFA500&style=flat&logo" alt="back to top" /></a></p>
