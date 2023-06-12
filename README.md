@@ -211,7 +211,7 @@
 <br>
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img alt="thanks for your visit" src="https://readme-typing-svg.herokuapp.com?font=Rubik Maze&color=%23ff69b4&size=48&center=true&vCenter=true&width=400&lines=Thanks+for+your+visit!" style="display: block; background-color: #F9F9F9; padding: 20px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
+    <img alt="thanks for your visit" src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%23ff69b4&size=32&center=true&vCenter=true&width=400&lines=Thanks+for+your+visit!" style="display: block; background-color: #F9F9F9; padding: 20px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
   </a>
 </div>
 
