@@ -23,7 +23,7 @@
 <!-- Center the content -->
 <div align="center" style="border: 2px solid #555; padding: 10px;">
   <a href="https://github.com/lucthienphong1120/github-trophies" target="_blank">
-    <img width="80%" src="https://github-trophies.vercel.app/?username=PratyushKargeti&column=8&margin-w=10&margin-h=10&no-bg=true&no-frame=true&theme=radical.dark" alt="GitHub Trophies">
+    <img width="80%" src="https://github-trophies.vercel.app/?username=PratyushKargeti&column=8&margin-w=10&margin-h=10&no-bg=true&no-frame=true&theme=radical" alt="GitHub Trophies">
   </a>
 </div>
 
@@ -162,17 +162,17 @@
 <h2 align="center"> 📊 STATISTICS  </h2>
 <p align="center">
   <a href="https://github.com/PratyushKargeti/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=PratyushKargeti&show_icons=true&include_all_commits=true&theme=react&hide_border=true" alt="Pratyush's github stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=PratyushKargeti&show_icons=true&include_all_commits=true&theme=beufy&hide_border=true" alt="Pratyush's github stats" />
   </a>
 
   <a href="https://github.com/PratyushKargeti/github-readme-stats">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratyushKargeti&layout=compact&theme=buefy&hide_border=true" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratyushKargeti&layout=compact&theme=tokyonight&hide_border=true" />
   </a> 
 </p>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PratyushKargeti&theme=algolia" width="600" alt="Profile Details" />
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PratyushKargeti&theme=react" width="600" alt="Profile Details" />
   </a>
 </p>
 
@@ -185,7 +185,7 @@
 
 <h2 align="center">🔥 GitHub Streaks</h2>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PratyushKargeti&theme=tokyonight" alt="PratyushKargeti" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PratyushKargeti&theme=radical" alt="PratyushKargeti" />
 </p>
 
 <!--- M Y   T O P   R E P O --->
