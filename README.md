@@ -167,7 +167,7 @@
 <h2 align="center"> 📊 STATISTICS  </h2>
 <p align="center">
   <a href="https://github.com/PratyushKargeti/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=PratyushKargeti&show_icons=true&include_all_commits=true&theme=beufy&hide_border=true" alt="Pratyush's github stats" />
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PratyushKargeti&show_icons=true&include_all_commits=true&theme=beufy&hide_border=true" alt="Pratyush's github stats" />
   </a>
   <a href="https://github.com/PratyushKargeti/github-readme-stats">
     <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PratyushKargeti&layout=compact&theme=tokyonight&hide_border=true" />
