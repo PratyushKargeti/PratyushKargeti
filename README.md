@@ -169,6 +169,8 @@
   <a href="https://github.com/PratyushKargeti/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=PratyushKargeti&show_icons=true&include_all_commits=true&theme=beufy&hide_border=true" alt="Pratyush's github stats" />
   </a>
+  <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150'>
+  
 
   <a href="https://github.com/PratyushKargeti/github-readme-stats">
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratyushKargeti&layout=compact&theme=tokyonight&hide_border=true" />
@@ -217,7 +219,7 @@
 <div align="center">
   
   <a href="https://git.io/typing-svg">
-    <img align='left' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
+    
     <img alt="thanks for your visit" src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%23ff69b4&size=32&center=true&vCenter=true&width=400&lines=Thanks+for+your+visit!" style="display: block; background-color: #F9F9F9; padding: 20px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
     
   </a>
