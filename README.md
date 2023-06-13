@@ -167,10 +167,10 @@
 <h2 align="center"> 📊 STATISTICS  </h2>
 <p align="center">
   <a href="https://github.com/PratyushKargeti/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=PratyushKargeti&show_icons=true&include_all_commits=true&theme=beufy&hide_border=true" alt="PratyushKargeti's github stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=PratyushKargeti&show_icons=true&include_all_commits=true&theme=beufy&hide_border=true" alt="Pratyush's github stats" />
   </a>
   <a href="https://github.com/PratyushKargeti/github-readme-stats">
-    <img align="right" src="https://readmestats.999857.xyz/api/top-langs/?username=PratyushKargeti&layout=compact&theme=tokyonight&hide_border=true" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratyushKargeti&layout=compact&theme=tokyonight&hide_border=true" />
   </a> 
 </p>
 
@@ -198,7 +198,7 @@
 <br>
 <div align="center">
 
-[![Leetcode](https://readmestats.999857.xyz/api/pin/?username=PratyushKargeti&repo=Leetcode&theme=react&border_color=61dafb&border_radius=10)](https://github.com/PratyushKargeti/Leetcode)
+[![Leetcode](https://github-readme-stats.vercel.app/api/pin/?username=PratyushKargeti&repo=Leetcode&theme=react&border_color=61dafb&border_radius=10)](https://github.com/PratyushKargeti/Leetcode)
 
 </div>
 <br/>
