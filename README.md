@@ -17,7 +17,7 @@
 
 <div align="center">
   <img width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-  <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
+  
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
@@ -215,6 +215,7 @@
 <br>
 <br>
 <div align="center">
+  <img align='center' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
   <a href="https://git.io/typing-svg">
     <img alt="thanks for your visit" src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%23ff69b4&size=32&center=true&vCenter=true&width=400&lines=Thanks+for+your+visit!" style="display: block; background-color: #F9F9F9; padding: 20px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
   </a>
