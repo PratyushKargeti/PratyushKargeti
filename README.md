@@ -176,7 +176,7 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PratyushKargeti&theme=react" width="600" alt="Profile Details" />
+    <img align="center" src="https://github-profile-summary-cards-sigma-five.vercel.app/api/cards/profile-details?username=PratyushKargeti&theme=react" width="600" alt="Profile Details" />
   </a>
 </p>
 
