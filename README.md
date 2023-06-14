@@ -198,7 +198,7 @@
 <br>
 <div align="center">
 
-[![Leetcode](https://github-readme-stats.vercel.app/api/pin/?username=PratyushKargeti&repo=Leetcode&theme=react&border_color=61dafb&border_radius=10)](https://github.com/PratyushKargeti/Leetcode)
+[![Leetcode](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PratyushKargeti&repo=Leetcode&theme=react&border_color=61dafb&border_radius=10)](https://github.com/PratyushKargeti/Leetcode)
 
 </div>
 <br/>
