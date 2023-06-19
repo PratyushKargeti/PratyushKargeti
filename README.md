@@ -81,8 +81,8 @@
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-### 🛠 &nbsp;Tech Stack
-<p align="left"> 
+
+<p align="center"> 
     <!-- HTML CSS -->
     <a href="https://www.w3.org/html/" target="_blank"> 
       <img src="https://img.icons8.com/color/48/000000/html-5.png"/> 
