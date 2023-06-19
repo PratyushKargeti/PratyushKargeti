@@ -38,65 +38,45 @@
 
 <h2 align="center">💻 Languages and Tools</h2>
 
-<p align="center">
+<div align="center">
   <!-- HTML CSS -->
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" style="margin: 10px">
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" style="margin: 10px">
-  </a>
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/javascript--v2.png" alt="JavaScript" style="margin: 10px">
-  </a>
-  <!-- Bootstrap -->
-  <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" style="margin: 10px">
-  </a>
-  <!-- React, Redux, and Material UI -->
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" style="margin: 10px">
-  </a>
-  <a href="https://redux.js.org" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" style="margin: 10px">
-  </a>
-  <a href="https://material-ui.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/material-ui.png" alt="Material UI" style="margin: 10px">
-  </a>
-  <!-- Node JS -->
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" style="margin: 10px">
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" alt="MySQL" style="margin: 10px">
-  </a>
-  <br>
+  <div>
+    <a href="https://www.w3.org/html/" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
+    <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
+    <!-- JavaScript -->
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/></a>
+    <!-- Bootstrap -->
+    <a href="https://getbootstrap.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
+    <!-- React, Redux, and Material UI-->
+    <a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
+    <a href="https://redux.js.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/redux.png"/></a>
+    <a href="https://material-ui.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/material-ui.png"/></a>
+  </div>
+  
+  <!-- Node JS, MySQL -->
+  <div>
+    <a href="https://nodejs.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
+    <a href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/></a>
+  </div>
+</div>
+
+<div align="center">
   <!-- Programming Languages -->
-  <a href="https://isocpp.org/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" style="margin: 10px">
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" style="margin: 10px">
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/python--v2.png" alt="Python" style="margin: 10px">
-  </a>
-  <br>
+  <div>
+    <a href="https://isocpp.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
+    <a href="https://www.java.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/></a>
+    <a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/python--v2.png"/></a>
+  </div>
+  
   <!-- Tools -->
-  <a href="https://postman.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" height="45" style="margin: 10px">
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" style="margin: 10px">
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" style="margin: 10px">
-  </a>
-  <a href="" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/pycharm.png" alt="PyCharm" style="margin: 10px">
-  </a>
-</p>
+  <div>
+    <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/></a>
+    <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
+    <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a>
+    <a href="" target="_blank"><img src="https://img.icons8.com/color/48/000000/pycharm.png"/></a>
+  </div>
+</div>
+
 
 
 
