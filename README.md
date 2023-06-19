@@ -57,6 +57,10 @@
   <a href="https://isocpp.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
   <a href="https://www.java.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/python--v2.png"/></a>
+  <!-- Additional Languages -->
+  <a href="https://www.php.net/" target="_blank"><img src="https://img.icons8.com/officel/48/000000/php-logo.png"/></a>
+  <a href="https://www.ruby-lang.org/en/" target="_blank"><img src="https://img.icons8.com/color/48/000000/ruby-programming-language.png"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
 </div>
 
 <div align="center">
@@ -65,7 +69,12 @@
   <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a>
   <a href="" target="_blank"><img src="https://img.icons8.com/color/48/000000/pycharm.png"/></a>
+  <!-- Additional Tools -->
+  <a href="https://www.docker.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/docker.png"/></a>
+  <a href="https://www.sublimetext.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/sublime-text--v2.png"/></a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/></a>
 </div>
+
 
 
 
