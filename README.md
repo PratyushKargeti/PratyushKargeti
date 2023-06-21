@@ -110,6 +110,14 @@
 <div align="center">
 
 [![Leetcode](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PratyushKargeti&repo=Leetcode&theme=react&border_color=61dafb&border_radius=10)](https://github.com/PratyushKargeti/Leetcode)
+  <a href = "https://leetcode.com/stackcats/"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fstackcats&logo=leetcode&logoColor=yellow" target="_blank"></a>
+
+
+
+
+
+
+
 
 </div>
 <br/>
