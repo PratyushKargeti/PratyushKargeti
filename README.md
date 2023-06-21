@@ -1,4 +1,8 @@
-![](https://komarev.com/ghpvc/?username=PratyushKargeti&color=brightgreen&style=for-the-badge)
+
+<p align="right" >
+      ![](https://komarev.com/ghpvc/?username=PratyushKargeti&color=brightgreen&style=for-the-badge)
+</p>
+
 <h1 align="center">Hi 👋, I'm Pratyush Kargeti</h1>
 <h3 align="center">I'm a CS undergrad student interested in coding and exploring in-depth concepts</h3>
 
