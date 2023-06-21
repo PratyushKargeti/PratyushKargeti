@@ -3,7 +3,7 @@
 </p>
 
 
-<h2>Hi there  &nbsp; <img src="https://c.tenor.com/z2xJqhCpneIAAAAS/wave-hand.gif" alt="Hi their" width="50" height="60"> I am Pratyush Kargeti </h2>
+<h1 align="center">Hi 👋, I'm Pratyush Kargeti</h1>
 <h3 align="center">I'm a CS undergrad student interested in coding and exploring in-depth concepts</h3>
 
 <p align="center">
