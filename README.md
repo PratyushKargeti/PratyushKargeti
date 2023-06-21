@@ -113,14 +113,18 @@
 <div align="center">
 
 [![Leetcode](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=PratyushKargeti&repo=Leetcode&theme=react&border_color=61dafb&border_radius=10)](https://github.com/PratyushKargeti/Leetcode)
-</div>
-<br/>
 <p align="right">
   <a href="https://github.com/PratyushKargeti?tab=repositories" title="Show Repositories">🔎 Show more 🔍</a>
 </p>
 
+</div>
+<br/>
+
 
 <!--- S H O W   M O R E --->
+<div align="center">
+  <img alt="Coding" width="100%" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
+</div>
 
 
 
