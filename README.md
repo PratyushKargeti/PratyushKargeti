@@ -1,7 +1,7 @@
-
 <p align="right" >
-      ![](https://komarev.com/ghpvc/?username=PratyushKargeti&color=brightgreen&style=for-the-badge)
+  <img src="https://komarev.com/ghpvc/?username=PratyushKargeti&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="PratyushKargeti" />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Pratyush Kargeti</h1>
 <h3 align="center">I'm a CS undergrad student interested in coding and exploring in-depth concepts</h3>
